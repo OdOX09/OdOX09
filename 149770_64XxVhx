@@ -5033,3 +5033,13 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731623506/ei/8
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731622160/ei/sCA2Z7bUIZnkxN8P9rfNgAw/ip/86.107.43.88/id/wdP-WJeKm4k.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/qtApARGbud09-wXRZHO_mfv6vJHImJN25cUB5jU1NUvC8MWgFRl07EQJekbialo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299154%2C51312688%2C51326932/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgfP3Quzads3mTelsy0CBM3qlZopEbegZY_21gdzFOMksCIEIxO1U3qtzXK2GYOCDbwhPdOrpZGT5KqwmpIMPjs-fj/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/58ypZ31/20241114-235543.png" group-title="Live Streaming 24/7",Lo Fi 24/7 [YT]
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731622354/ei/ciE2Z4vTAamMp-oPzJuiyQ4/ip/86.107.43.88/id/jfKfPfyJRdk.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAW-THbqu3abWBEcl-Yx661uAu2Lm5fbPO7gq-5euTQs5vmYadSujy7gDBg0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51264008%2C51299154%2C51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJhw_qbvCi5AXFgGYE-y2brjEqaQSvm_611nqDPkzDIVAiA9UnpVs4FexedvOvlwKrqDQESyxnRKrgbmfhlR30s6bg%3D%3D/file/index.m3u8
+
+soccer channnel
+#EXTINF:-1 tvg-logo="https://iili.io/JjzVSAG.png" group-title="soccer channel", Soccer Channel 
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8
+
+
+
+
+
+
