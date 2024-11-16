@@ -1,4 +1,4 @@
-ERROR 404....
+IERROR 404....
 
 
 
@@ -4452,12 +4452,9 @@ https://jgj.jogjastreamers.com/taradio
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 ------------------------------------------------BATAS---------
 
-NASIONAL ⬇️⬇️⬇️⬇️⬇️⬇️
+NASIONAL ⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dM0SYrN/rcti.png" group-title="NASIONAL",RCTI (V+棣冪參)
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d6sfBLj/inews.png" group-title="NASIONAL",Inews (V+棣冪參)
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
@@ -4470,8 +4467,6 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://iptv.urfan.web.id/logo/trans7.png" group-title="NASIONAL",Trans7 (DT)
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" group-title="NASIONAL",Indosiar (FMX)
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://iptv.urfan.web.id/logo/rtv.png" group-title="NASIONAL",RTV (DNS)
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -4519,9 +4514,6 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:-1 tvg-id="vtv.id" tvg-logo="https://i.ibb.co.com/Gk301YC/vtv.png" tvg-name="" group-title="NASIONAL",VTV 馃嚠馃嚛
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
-#EXTINF:-1 tvg-id="RTV" tvg-logo="https://i.ibb.co.com/b1tcbgm/rtv.png" tvg-name="Rajawali TV" group-title="NASIONAL",RTV 馃嚠馃嚛
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://210.210.155.37/session/01ec4c78-827b-11ee-93b3-aa38b7050ceb/uq2663/h/h10/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="NASIONAL",RCTI (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
