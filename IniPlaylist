@@ -9726,9 +9726,11 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731873860/ei/5
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731885875/ei/0yY6Z5z0IaaMg8UPoozs6AE/ip/172.71.124.92/id/oWW5TLrrbNo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51327526/txs/51327526%2C51327527%2C51327528/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAdn4kFIIObqiphxrNI7N0JTe3JldWL0utFl-89bQQZ-303Xtz572zE1oD1M/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299154%2C51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgCw2EXiXt9ADHU8Uz2KrK-OtWKXTIO6pVIdGWaxVB8qACIDJYiYyaWIf5BnK1-AUL8FzZc7S0G9CESp474DWdwc7D/file/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="" tvg-name="lofi winter 24/7" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",lofi winter 24/7
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731886757/ei/RSo6Z7XOHeH54-EP2oWKUQ/ip/172.70.147.203/id/_xQJIFqRAEw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAdf1BY-csenu8oQdL9iWQstVA0OgoIMBCtsi_vAXwcvoHgV4A-1i6syNv6E/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299154%2C51312688%2C51326336%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgbDeoCvtBTjj9q_K3RxfJQA7mRpYQfyQWqRcf-S4Zo9QCIQD44WP_Ph02FHqK7wgjnju6kPPI1GANBKFDUZV4GSYdkg%3D%3D/file/index.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="" tvg-name="test 24/7" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",test 24/7
+https://video.twimg.com/amplify_video/1797150287292981248/pl/-GLBpWJuiNKBrdvp.m3u8
 
 
