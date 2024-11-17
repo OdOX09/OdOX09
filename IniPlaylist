@@ -1,4 +1,4 @@
-ERROR 404....
+jlERROR 404....
 
 
 
@@ -9743,6 +9743,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731873860/ei/5
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731873994/ei/avg5Z8vSFceDi9oP6MOJuQI/ip/92.205.5.93/id/EPXXYlY4uE4.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/fr/spc/qtApAekzmQh99qeq3rRTIvZH5__5GRLsZIIh0gWAFmuR2IkPzq-EPIrOQeXYc2U/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299154%2C51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIo0eN9VcVs6SXUFWZkLy0g_CpG1DjyBHcYfhc-w-103AiEAx-RTd7CGCbbjxKTlnR12wo5OV7d7nQMmGT_VQBf1gQM%3D/file/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="" tvg-name="NCS 2 24/7" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",NCS 2 24/7
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731874741/ei/Vfs5Z7P4EbC-i9oPoY2f6Ao/ip/92.205.5.93/id/oWW5TLrrbNo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAfLJ_q5pNaDMuv9w1PNRlizN5ZRnew7qOaSGgXNpkM_RUO1ASw26zjsNcpg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299154%2C51312688%2C51326932%2C51335594/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALdqzbFNghp1Y286q-Gm9wrzloE5ZTO3efPwVAOr20-0AiA2YjQ3E71IymYdifhtJaiOQFhrZiSrwNv8VeDuL03o6w%3D%3D/file/index.m3u8
 
 
 
