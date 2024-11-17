@@ -1,11 +1,12 @@
-#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="" tvg-name="pop indonesia 24/7" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",pop indonesia 24/7
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731872732/ei/fPM5Z9-0GumL6dsP98Hr-AQ/ip/92.205.5.93/id/lOK8WcyVmSQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAVtK4MSAmlO15XxsZ8zUZxXdsB_j-IxLxPiediPkPOXhCQGRFpgzIahilek/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299154%2C51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZD0-CInPFchs0qMhXAbZwd8gDdhGU6rStWozsk2zGUQCIBZ2AZvRtAX7zxDXDCDLdC749bMNBPGD9UyyeSQxWTWh/file/index.m3u8
 
 
 
----------------------------------NASIONAL-------------------------------------------
-
-
-
+#EXTINF:-1 tvg-logo="" tvg-name="AQUARIUS MUSIC INDO [YT] 24/7" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",aquarius music indo [YT] 24/7
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731872921/ei/OfQ5Z5mmMt_Y6dsPsvCxqAg/ip/92.205.5.93/id/L0SkMUn4eE8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51241485/txs/51241481%2C51241482%2C51241483%2C51241484%2C51241485%2C51241486/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAbx5gVcy4nmiPJcbzUNzIE5I9-Q_hFDtjpcsTiLKQvzZWx1pwYXJWBm5ydA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299154%2C51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgGZbaVMSMvl9CVOONiqx0N7G6x2epTJa7GeZzwhrU7tECIH0pnytLIzyvER0wkZjSVbBItzh1OSsQWsLPjOOIhc3k/file/index.m3u8
 
 
 
